@@ -1,7 +1,6 @@
 package entrega_28082022;
 import java.util.Locale;
 import java.util.Scanner;
-
 public class ativadade02 
 {
      {
@@ -13,9 +12,7 @@ public class ativadade02
             double pi = 3.14159;
             double raio = input.nextDouble();
             double area = Math.pow(raio,2) * pi;
-    
             System.out.printf("A=%.4f\n", area);
         }
-    }
-    
+    }   
 }
