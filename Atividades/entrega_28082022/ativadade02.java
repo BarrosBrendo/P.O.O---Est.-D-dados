@@ -1,4 +1,4 @@
-package entrega_28082022;
+package Atividades.entrega_28082022;
 import java.util.Scanner;
 public class ativadade02 {
     public static void main(String[] args) 

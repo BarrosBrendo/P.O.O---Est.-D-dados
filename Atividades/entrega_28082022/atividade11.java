@@ -1,4 +1,4 @@
-package entrega_28082022;
+package Atividades.entrega_28082022;
 import java.util.Locale;
 import java.util.Scanner;
 public class atividade11 

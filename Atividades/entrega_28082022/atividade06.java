@@ -1,4 +1,4 @@
-package entrega_28082022;
+package Atividades.entrega_28082022;
 public class atividade06 
 {  public static void main(String[] args) 
     {
